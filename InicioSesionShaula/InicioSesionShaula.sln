@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InicioSesionShaula", "InicioSesionShaula.csproj", "{E0E530E4-4981-4C33-8828-15C6C6C2936E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E530E4-4981-4C33-8828-15C6C6C2936E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E530E4-4981-4C33-8828-15C6C6C2936E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E530E4-4981-4C33-8828-15C6C6C2936E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E530E4-4981-4C33-8828-15C6C6C2936E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B0C785-81E5-4824-851C-5F56F49630E3}
+	EndGlobalSection
+EndGlobal
